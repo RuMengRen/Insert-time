@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "currentTime add-time",
+        "command": "add-time:currentTime"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "add-time",
+          "submenu": [
+            {
+              "label": "currentTime",
+              "command": "add-time:currentTime"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
