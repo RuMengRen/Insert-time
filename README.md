@@ -1,5 +1,4 @@
-# add-time package
-# atom-add-time
+# Insert-time package
 Atom插件，插入时间，格式yyyy-MM-dd HH:MM:SS，快捷键Alt+D
 
 ![image](https://github.com/RuMengRen/Insert-time/blob/master/effect.gif?raw=true)
